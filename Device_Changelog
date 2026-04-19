@@ -1,0 +1,24 @@
+----------------------------------------------------------
+
+VoltageOS 5.8
+
+Build Date: 20/04/2026
+
+Device Side:
+- Moved to 4.0 vendor and kernel
+- Tuned zram to 75%
+- Fixed wrong cpu nodes in powerhint
+- Fixed wifi wpa3
+- Added HintManager for HWUI
+- Disable high performance transitions
+- Fixed some lag on specific transitions
+- Switched EGL backend to mali
+- Added support for Soundtrigger
+- Added Add haptic-generating effect for audio
+- Imported phase offsets from Motorola
+- Disabled FRP
+- Disabled game default frame rate feature in developer settings
+- Updated ims patches
+- Many more
+
+-----------------------------------------------------------
